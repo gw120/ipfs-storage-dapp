@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\contracts",
+    "\\contracts\\test",
+    "\\front-end",
+    "\\front-end\\public",
+    "\\front-end\\src",
+    "\\front-end\\src\\components",
+    "\\front-end\\src\\features",
+    "\\scripts",
+    "\\tests"
   ],
-  "SelectedNode": "\\.env",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
